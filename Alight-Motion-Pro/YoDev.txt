@@ -1,1 +1,1 @@
-{"ver1" : "5", "ver2" : "0", "title" : "يتوفر تحديث جديد",  "msg" : "تحديث جديد من نسخة مدفوعة", "isdown" : "تحميل الأن", "url" : "https://youtu.be/pnFH2HsaGxo"}
+{"ver1" : "5", "ver2" : "0", "title" : "New update available",  "msg" : "Update App Now From Matrex Mods free", "isdown" : "Download Now", "url" : "https://youtu.be/pnFH2HsaGxo"}
